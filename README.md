@@ -2,7 +2,7 @@
 
 # Big Data - Amazon Vine Analysis README
 # By:  Monica Holmes
-# June9, 2021
+# June 9, 2021
 
 
 ##The purpose of this analysis is to access a dataset and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. From there, I used PySpark, in Collab, to determine if there is any bias toward favorable reviews from Vine members in your dataset. Finally, I wrote a summary of the analysis for Jennifer to submit to the SellBy stakeholders. 
